@@ -12,11 +12,7 @@ The controller:
 
 ---
 
-## Demo Video
 
-👉 *(Add your YouTube link here once uploaded – for example:)*
-
-[▶️ Pick & Place Demo on YouTube](https://youtu.be/your_video_id)
 
 ---
 
